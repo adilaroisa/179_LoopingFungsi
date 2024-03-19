@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="LoopingWhile.cpp">
+    <ClCompile Include="DoWhileLoop.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

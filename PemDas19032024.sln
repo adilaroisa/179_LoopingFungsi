@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PemDas19032024", "PemDas190
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LoopingWhile", "Looping\Looping.vcxproj", "{A0CF0912-F824-48B9-9A73-154BD62A9D10}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DoWhileLoop", "DoWhileLoop\DoWhileLoop.vcxproj", "{FAA82721-57A9-4CC4-90FB-A00F65DBE828}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{A0CF0912-F824-48B9-9A73-154BD62A9D10}.Release|x64.Build.0 = Release|x64
 		{A0CF0912-F824-48B9-9A73-154BD62A9D10}.Release|x86.ActiveCfg = Release|Win32
 		{A0CF0912-F824-48B9-9A73-154BD62A9D10}.Release|x86.Build.0 = Release|Win32
+		{FAA82721-57A9-4CC4-90FB-A00F65DBE828}.Debug|x64.ActiveCfg = Debug|x64
+		{FAA82721-57A9-4CC4-90FB-A00F65DBE828}.Debug|x64.Build.0 = Debug|x64
+		{FAA82721-57A9-4CC4-90FB-A00F65DBE828}.Debug|x86.ActiveCfg = Debug|Win32
+		{FAA82721-57A9-4CC4-90FB-A00F65DBE828}.Debug|x86.Build.0 = Debug|Win32
+		{FAA82721-57A9-4CC4-90FB-A00F65DBE828}.Release|x64.ActiveCfg = Release|x64
+		{FAA82721-57A9-4CC4-90FB-A00F65DBE828}.Release|x64.Build.0 = Release|x64
+		{FAA82721-57A9-4CC4-90FB-A00F65DBE828}.Release|x86.ActiveCfg = Release|Win32
+		{FAA82721-57A9-4CC4-90FB-A00F65DBE828}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
